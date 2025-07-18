@@ -51,6 +51,7 @@ Currently, I'm developing a **student-focused Bug Bounty Practice Platform** tha
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ---
 
